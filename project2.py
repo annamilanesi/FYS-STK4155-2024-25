@@ -1,4 +1,2 @@
 import numpy as np
-
-
-ciao 
+hdurfr
